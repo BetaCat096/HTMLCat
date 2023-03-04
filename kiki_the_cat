@@ -1,0 +1,46 @@
+TURBOGOAT Client
+	<header>
+	</nav>
+	<ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="kiki_the_cat">Kiki The Cat</a></li>
+            <li><a href="cat_tips">Cat Tips</a></li>
+        </ul>
+    </nav>
+<main>
+  <article>
+  <section class="stylishBox someSpacing">
+  <h1>Kiki The Cat</h1>
+    <p>
+     Kiki the Cat is a growing youtube populatry. She is a nice cat who likes cheese. She also likes sleeping and going on things she knows she is not alowed to!:
+    </p>
+    <img src  = "chillinkiki.jpg" = "Kiki The Cat" height = "200px"
+<section class="stylishBox someSpacing">
+    <h2>Kiki is a Britsiah Shorthair</h2>
+    <p>The britsih shorthair is a shorthair ca that dominates Britain. They come in tabby, black and white, totisehell and much more!</p>
+        
+</header>
+	
+		<title>Kiki The Cat</title>
+		<link type="text/css" rel="stylesheet" href="styles.css"/>
+		<meta charset="utf-8"/>
+	</head>
+	<body>
+	<body id="frontPage">
+	  <header>
+	  <section class="stylishBox someSpacing">
+	  <h1>  Here are some of her videos!
+	   </p> <a href="https://youtube.com/shorts/SGduT3Nd0BU?feature=share">Kiki's Sofa</a>
+	   <a href="https://www.youtube.com/shorts/2VNXwkVX4C4">Kiki on sofa</a> 
+	   <a href="https://www.youtube.com/@KikiTheCat709">Kiki's Page
+	  <main>
+	    
+	    
+	    
+	  </main>
+	  <footer>
+	    
+	  </footer>
+	</body>
+</html>
+

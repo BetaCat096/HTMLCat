@@ -1,0 +1,82 @@
+body {
+  background-color: LightSkyBlue;
+  font: "Helvetica", sans-serif;
+  color: blue;
+}
+
+h1 {
+  color: orange;
+  font: "Times New Roman", serif;
+
+}
+
+nav ul {
+  backround-color: red;
+}
+
+nav ui li {
+  list-style-type: none;
+}
+
+.topDivider {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #F5FFFA;
+  padding-bottom: 10px;
+}
+
+stylishBox {
+  background-color: #87CEFA;
+  color: #A52A2A;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #F5FFFA;
+  border-radius: 10px;
+}
+.someSpacing {
+  padding: 10px;
+  margin-top: 20px;
+}
+#frontPage {
+    background: #48D1CC;
+    background: linear-gradient(#fea3aa, #f8b88b, #faf884, #baed91, #baed91, #b2cefe, #f2a2e8, #fea3aa);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: purple;
+}
+/********************************/
